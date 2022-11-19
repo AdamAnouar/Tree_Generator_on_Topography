@@ -1,6 +1,6 @@
-# PathFinder through Topography
+# Tree Generator on Topography
 
-## Shortest_path
+## PathFinder through Topography
 An A-Star based algorithm to find the shortest path through topography.
 
 ## Bound region
