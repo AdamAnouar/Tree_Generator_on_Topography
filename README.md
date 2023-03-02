@@ -13,5 +13,6 @@ https://www.youtube.com/watch?v=yOTK81HDSqM&list=PLZF2qDQgHACyldoK3DC9HSNgmNKBbD
 ## Minimum Spanning Tree
 Create a tree with the minimum number of segments to connect a group of points using the Prim's algorithm. 
 
+## Example of Combination
 
 ![Image](https://user-images.githubusercontent.com/43108465/222206433-2333188b-db2e-4e5d-a66c-7bdef1d5ed65.jpg)
