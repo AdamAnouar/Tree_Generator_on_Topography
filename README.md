@@ -1,7 +1,7 @@
 
 # Tree Generator on Topography
 The aim of this repository is to provide customizable components for generating structured networks using 
-pathfinders and search algorithms. and Simple examples of possibilities of combinations and integration to an iterative process.
+pathfinders and search algorithms as well as simple example files of the possible combinations and integration to an iterative process.
 
 Reference:
 https://www.youtube.com/watch?v=yOTK81HDSqM&list=PLZF2qDQgHACyldoK3DC9HSNgmNKBbDVlW&index=21
