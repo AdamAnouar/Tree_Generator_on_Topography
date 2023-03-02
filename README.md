@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+
+=======
 # Tree Generator on Topography
 The aim of this repository is to provide customizable components for generating structured networks using 
 pathfinders and search algorithms. and Simple examples of possibilities of combinations and integration to an iterative process.
@@ -13,5 +16,7 @@ https://www.youtube.com/watch?v=yOTK81HDSqM&list=PLZF2qDQgHACyldoK3DC9HSNgmNKBbD
 ## Minimum Spanning Tree
 Create a tree with the minimum number of segments to connect a group of points using the Prim's algorithm. 
 
+## Example of Combination
 
 ![Image](https://user-images.githubusercontent.com/43108465/222206433-2333188b-db2e-4e5d-a66c-7bdef1d5ed65.jpg)
+>>>>>>> 7481acc08fe814eaa613dda57d12f703400bbbdc
